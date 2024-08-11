@@ -45,3 +45,7 @@
   .productCard button:hover{
     background-color: #103f80;
   }
+
+  .productCard .action .remove {
+    background: red;
+  }
